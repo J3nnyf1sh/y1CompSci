@@ -1,0 +1,9 @@
+SmartSpeaker: Amazon: Off
+SmartSpeaker: Amazon: On
+SmartPlug: 90: Off: 8: On
+SmartSpeaker: Amazon: On: 20: Off
+SmartPlug: 140: Off
+Background: gray7
+Foreground: red
+Accent: yellow
+Text: 15
