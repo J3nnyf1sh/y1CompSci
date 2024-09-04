@@ -1,8 +1,0 @@
-SmartSpeaker: Amazon: Off: 22: Off
-SmartSpeaker: Amazon: On
-SmartSpeaker: Amazon: Off
-SmartPlug: 46: Off: 3: On
-Background: white
-Foreground: black
-Accent: light blue
-Text: 10
