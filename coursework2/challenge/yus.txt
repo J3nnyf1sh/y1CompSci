@@ -1,0 +1,9 @@
+SmartSpeaker: Amazon: Off
+SmartSpeaker: Amazon: Off
+SmartSpeaker: Amazon: Off
+SmartSpeaker: Amazon: On: 10: On
+SmartSpeaker: Amazon: Off
+Background: gray7
+Foreground: white
+Accent: purple
+Text: 15
